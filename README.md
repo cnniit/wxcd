@@ -1,8 +1,8 @@
 # wxcd
 
 ####  单个
-![image](https://github.com/cnniit/wxcd/blob/master/dinglern.png)
+![image](https://imgchr.com/i/QjQpfx)
 ####  多个
-![image](https://s2.ax1x.com/2019/12/21/QjKUVs.png)
+![image](https://imgchr.com/i/QjQSt1)
 ####  指定序号区间
-![image](https://s2.ax1x.com/2019/12/21/QjK0P0.png)
+![image](https://imgchr.com/i/QjQCp6)
