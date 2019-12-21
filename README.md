@@ -1,8 +1,8 @@
 # wxcd
 
 ####  单个
-![image](https://github.com/cnniit/wxcd/blob/master/wxcd4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191204123051.png)
+![image](https://s2.ax1x.com/2019/12/21/QjKaan.png)
 ####  多个
-![image](https://github.com/cnniit/wxcd/blob/master/wxcd4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191204123056.png)
+![image](https://s2.ax1x.com/2019/12/21/QjKUVs.png)
 ####  指定序号区间
-![image](https://github.com/cnniit/wxcd/blob/master/wxcd4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191204123101.png)
+![image](https://s2.ax1x.com/2019/12/21/QjK0P0.png)
