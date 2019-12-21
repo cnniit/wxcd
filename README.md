@@ -1,7 +1,7 @@
 # wxcd
 
 ####  单个
-![image](https://s2.ax1x.com/2019/12/21/QjKaan.png)
+![image](https://github.com/cnniit/wxcd/blob/master/dinglern.png)
 ####  多个
 ![image](https://s2.ax1x.com/2019/12/21/QjKUVs.png)
 ####  指定序号区间
